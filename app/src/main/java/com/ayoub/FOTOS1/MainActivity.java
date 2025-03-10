@@ -120,9 +120,4 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(Intent.EXTRA_LOCAL_ONLY, true);
         someActivityResultLauncher.launch(intent);
     }
-
-
-
-
-
 }
